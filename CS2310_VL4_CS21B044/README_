@@ -1,0 +1,14 @@
+all the verilog code is in the folder named "source files".
+
+
+steps to run the code in terminal:
+
+1. open the "source files" folder in terminal.
+2. paste "iverilog add.v and.v cu.v cutb.v dec.v decoder.v fadder.v ha.v inc.v not.v or.v rca8bit.v sub.v" and hit enter.
+3. paste "vvp a.out" and hit enter, gtkwave file named cu_test.vcd has been created.
+4. paste "gtkwave cu_test.vcd" and hit enter. 
+
+gtkwave for testbemch has been opened with 0 errors.
+
+
+
